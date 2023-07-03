@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-05-03 22:50+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/pages/authorization/Authorization.tsx:134
+msgid "Authorization"
+msgstr ""
+
+#: src/pages/dashboard/dashboard.tsx:7
+msgid "Dashboard"
+msgstr ""
+
+#: src/entities/email/Email.jsx:6
+#~ msgid "email"
+#~ msgstr ""
+
+#: src/pages/authorization/Authorization.tsx:142
+msgid "Email"
+msgstr ""
+
+#: src/pages/forgotPassword/forgotPassword.tsx:11
+msgid "Forgot Password"
+msgstr ""
+
+#: src/pages/authorization/Authorization.tsx:171
+msgid "Forgot your password?"
+msgstr ""
+
+#: src/pages/authorization/Authorization.tsx:195
+msgid "Have any questions?<0>Feel free to contact our support!</0>"
+msgstr ""
+
+#: src/pages/authorization/Authorization.tsx:189
+msgid "Log in"
+msgstr ""
+
+#: src/pages/pageNotFound/pageNotFound.tsx:19
+msgid "Page Not Found"
+msgstr ""
+
+#: src/pages/authorization/Authorization.tsx:156
+msgid "Password"
+msgstr ""
+
+#: src/pages/authorization/Authorization.tsx:180
+msgid "Remember me"
+msgstr ""
+
+#: src/pages/authorization/Authorization.tsx:147
+#: src/pages/authorization/Authorization.tsx:162
+msgid "Required field"
+msgstr ""
